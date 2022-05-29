@@ -1,0 +1,6 @@
+D:\Documentos\Universidad\2022_1\Inteligencia_Artificial\Proyecto_IA\GeometryFriendsAgents\GeometryFriendsGame\Release\Agents\GeometryFriendsAgents.dll
+D:\Documentos\Universidad\2022_1\Inteligencia_Artificial\Proyecto_IA\GeometryFriendsAgents\GeometryFriendsGame\Release\Agents\GeometryFriendsAgents.pdb
+D:\Documentos\Universidad\2022_1\Inteligencia_Artificial\Proyecto_IA\GeometryFriendsAgents\obj\Debug\GeometryFriendsAgents.csproj.AssemblyReference.cache
+D:\Documentos\Universidad\2022_1\Inteligencia_Artificial\Proyecto_IA\GeometryFriendsAgents\obj\Debug\GeometryFriendsAgents.csproj.CoreCompileInputs.cache
+D:\Documentos\Universidad\2022_1\Inteligencia_Artificial\Proyecto_IA\GeometryFriendsAgents\obj\Debug\GeometryFriendsAgents.dll
+D:\Documentos\Universidad\2022_1\Inteligencia_Artificial\Proyecto_IA\GeometryFriendsAgents\obj\Debug\GeometryFriendsAgents.pdb
